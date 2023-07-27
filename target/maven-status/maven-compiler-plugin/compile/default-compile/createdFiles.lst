@@ -1,0 +1,17 @@
+com\devd\spring\bookstorebillingservice\web\GetAddressResponse$GetAddressResponseBuilder.class
+com\devd\spring\bookstorebillingservice\BookstoreBillingServiceApplication.class
+com\devd\spring\bookstorebillingservice\web\GetAddressResponse.class
+com\devd\spring\bookstorebillingservice\config\SwaggerConfig.class
+com\devd\spring\bookstorebillingservice\config\BillingResourceServiceConfig.class
+com\devd\spring\bookstorebillingservice\controller\AddressController.class
+com\devd\spring\bookstorebillingservice\web\CreateAddressRequest.class
+com\devd\spring\bookstorebillingservice\repository\dao\AddressDao$AddressDaoBuilder.class
+com\devd\spring\bookstorebillingservice\service\AddressService.class
+com\devd\spring\bookstorebillingservice\web\CreateAddressRequest$CreateAddressRequestBuilder.class
+com\devd\spring\bookstorebillingservice\config\AuthForwardInterceptor.class
+com\devd\spring\bookstorebillingservice\web\UpdateAddressRequest$UpdateAddressRequestBuilder.class
+com\devd\spring\bookstorebillingservice\repository\dao\AddressDao.class
+com\devd\spring\bookstorebillingservice\service\impl\AddressServiceImpl.class
+com\devd\spring\bookstorebillingservice\config\BillingServiceConfig.class
+com\devd\spring\bookstorebillingservice\web\UpdateAddressRequest.class
+com\devd\spring\bookstorebillingservice\repository\AddressRepository.class
